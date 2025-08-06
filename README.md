@@ -15,6 +15,7 @@ Faster Transactions: Quickly add new entries for borrows and payments. Spend les
 Clear Picture of Your Business: Instantly see how much money is owed to you and by whom.
 
 Key Features
+<br>
 👤 Customer Management: Easily add and manage a list of all your customers.
 
 💸 Transaction Tracking: Record Udhaar (credit given) and Jama (payment received) for each customer with just a few taps.
