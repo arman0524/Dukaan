@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DUKAAN</string>
+    <string name="welcome_back">Welcome Back!</string>
+    <string name="welcome_please_register_your_shop_to_get_started">Welcome! Please register your shop to get started.</string>
+</resources>
