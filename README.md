@@ -49,4 +49,4 @@ Record a Transaction: Select the customer and add an entry for the amount they b
 
 Track: That's it! The app will automatically calculate and show you the current balance for that customer.
 
-i built Dukaan  to empower local businesses. We hope it makes your life easier!
+i built Dukaan  to empower local businesses.
